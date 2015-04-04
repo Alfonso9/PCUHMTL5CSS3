@@ -1,0 +1,21 @@
+Investigar:
+
+(text)vertical-align: middle;
+
+(object)line-height: 30px;
+
+www.colorzilla.com/gradient-editor/
+
+https://about.twitter.com/resources/button#tweet
+
+https://developers.facebook.com/docs/plugins/like-button
+
+https://developersgoogle.com/+/web/+1button/
+
+Efectos universales a cualquier navegador
+www.caniuse.com/#search=scale
+
+-moz-		Firefox
+-ms- 		IE
+-o- 		Opera
+-webkit-	Chrome/Android
